@@ -8,7 +8,7 @@
 
 **Step 2:** Set $HADOOP_VERSION to Hadoop version
 
-**Step 3:** Make sure  Hadoop up and running 
+**Step 3:** Make sure  Hadoop up and running and
 
 ```
 cd hadoop_mini_project
@@ -16,8 +16,7 @@ cd hadoop_mini_project
 
 ```
 
-
 ### Prerequisites
-* [Hadoop] (http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+* [Hadoop](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
 
 * [Python](https://www.python.org/downloads/) 
